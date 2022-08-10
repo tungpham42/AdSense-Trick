@@ -1,4 +1,4 @@
-# AdSense-Trick
+# AdSense Trick
 
 This trick will allow you to show AdSense Modal box to all links with the *"showPromotion"* class. Then after you click on Close button, you will go to the desired web pages.
 
